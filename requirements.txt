@@ -1,15 +1,5 @@
-lxml==4.9.1
-nest-asyncio==1.5.5
-packaging==21.3
-pip==23.0
 plotly==5.9.0
-prompt-toolkit==3.0.20
-setuptools==65.5.0
 streamlit==1.15.2
-tenacity==8.0.1
-textdistance==4.2.1
-ujson==5.4.0
-Unidecode==1.2.0
 yfinance==0.1.87
 seaborn==0.12.1
 fundamentus==0.2.0
