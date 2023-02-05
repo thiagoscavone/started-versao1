@@ -4,16 +4,18 @@ yfinance==0.1.87
 seaborn==0.12.1
 fundamentus==0.2.0
 vectorbt==0.24.3
-statsmodels==0.13.5
 FPDF==1.7.2
-cvxpy>=1.3
-scipy>=1.1.0
-matplotlib==3.6.0
-pandas==1.5.3
-xlsxwriter==3.0.8
-networkx==3.0
-astropy==4.3.1
-pybind11==2.10.3
+numpy>=1.17.0
+scipy>=1.0.1
+pandas>=1.0.0
+matplotlib>=3.5.0
+cvxpy>=1.1.7
+scikit-learn>=1.0.0
+statsmodels>=0.10.1
+arch>=4.15
+XlsxWriter>=1.3.7
+networkx>=2.5.1
+astropy>=4.3.1
 riskfolio-lib==4.0.0
 
 
